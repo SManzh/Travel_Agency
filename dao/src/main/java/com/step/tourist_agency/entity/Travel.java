@@ -38,10 +38,6 @@ public class Travel extends LogNameEntity {
     @Column(name = "days")
     private int days;
 
-//    @Basic
-//    @Temporal(TemporalType.TIMESTAMP)
-//    @Column(name = "date_departure")
-//    private Data dateDeparture;
 
     //------------------------------------------------------------------------------------------------------------------
 
